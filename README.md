@@ -1,5 +1,10 @@
 # Healthcare Dashboard Analysis (Power BI)
 
+## Dashboard Preview
+
+![Healthcare Dashboard](image/dashboard_preview.png)
+
+
 ## 📌 Project Overview
 This project presents an interactive **Healthcare Dashboard** built using **Power BI** to analyze patient data, hospital performance, and key healthcare metrics.  
 The dashboard helps stakeholders understand trends in admissions, revenue, patient demographics, and medical conditions.
