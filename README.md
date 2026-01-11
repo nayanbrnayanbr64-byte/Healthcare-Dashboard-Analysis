@@ -43,16 +43,15 @@ The dashboard helps stakeholders understand trends in admissions, revenue, patie
 ## 📁 Project Structure
 Healthcare-Dashboard-Analysis/
 │
-├── dashboard/
-│ └── healthcare_dashboard.pbix
-│
-├── data/
-│ └── healthcare_dataset.excel.csv
-│
-├── image/
-│ └── dashboard_screenshot.png
-│
-└── README.md
+ dashboard/
+  healthcare_dashboard.pbix
+
+data/
+ healthcare_dataset.excel.csv
+
+ image/
+ dashboard_screenshot.png
+ README.md
 
 
 ## 🖼️ Dashboard Preview
