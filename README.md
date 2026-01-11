@@ -2,7 +2,10 @@
 
 ## Dashboard Preview
 
-![Healthcare Dashboard](image/dashboard_preview.png)
+[![Healthcare Dashboard]
+(dashboard_preview.png)]
+(dashboard_preview.png)
+
 
 
 ## 📌 Project Overview
